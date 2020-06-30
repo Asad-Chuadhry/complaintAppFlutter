@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031107476021",
+    "firebase_url": "https://flutterproj-fa1b0.firebaseio.com",
+    "project_id": "flutterproj-fa1b0",
+    "storage_bucket": "flutterproj-fa1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031107476021:android:ab6196f6c6ab630e5dcf7c",
+        "android_client_info": {
+          "package_name": "com.example.hsotellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031107476021-n7tibumgq4s13iiilb9jpt3nc9v5712c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-JYYz4TNpsD7vGkKoO2gxjhoMYELbFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031107476021-n7tibumgq4s13iiilb9jpt3nc9v5712c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
